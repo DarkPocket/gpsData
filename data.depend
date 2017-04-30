@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1493542232 source:f:\codesave\c++\data\datamanagement.cpp
+	"DataManagement.h"
+
+1493474053 f:\codesave\c++\data\datamanagement.h
+	<cstdlib>
+	"MyFile.h"
+	<sstream>
+
+1493541870 source:f:\codesave\c++\data\main.cpp
+	<iostream>
+	"DataManagement.h"
+
+1493439857 f:\codesave\c++\data\time.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
+1493439292 source:f:\codesave\c++\data\time.cpp
+	"Time.h"
+
+1493439438 f:\codesave\c++\data\gps.h
+	<cstring>
+	"Time.h"
+
+1493542416 f:\codesave\c++\data\myfile.h
+	<vector>
+	<algorithm>
+	<functional>
+	<iterator>
+	<fstream>
+	<iostream>
+	"GPS.h"
+	"Record.h"
+
+1493439672 f:\codesave\c++\data\record.h
+	<iostream>
+
+1493439554 source:f:\codesave\c++\data\gps.cpp
+	"GPS.h"
+
+1493542232 source:f:\codesave\c++\data\myfile.cpp
+	"MyFile.h"
+
+1493439793 source:f:\codesave\c++\data\record.cpp
+	"Record.h"
+

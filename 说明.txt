@@ -1,0 +1,9 @@
+Database(string in)  in数据库对应文件名  Trajectory 
+Trajectory 只存储文件记录 不存储实际数据
+文件头{数据库名称、文件个数、文件名称、文件作用} //磁盘上存储形式
+
+
+Trajectory.txt   数据库文件
+dataRecor.txt  记录文件
+
+data.
